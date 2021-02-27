@@ -1,0 +1,46 @@
+nav{
+    background-color: gray;
+    height: 80px;
+    text-align: center;
+    padding: 2%;
+}
+body{
+    background-color: #0f3057;
+}
+#heading{
+    background-color: palevioletred;
+    margin-left: 25px;
+    width: 80%;
+    border: 5px solid black;
+    position: sticky;
+    top: 60px;
+}
+
+#numbersList{
+    border: 2px solid black;
+}
+
+main{
+
+    margin-top: 60px;
+}
+
+li:hover{
+    background-color: gray;
+    border: black;
+    font-size: larger;
+
+}
+
+li{
+    color: white;
+}
+
+footer{
+    background-color: gray;
+    height: 45px;
+}
+footer h2{
+
+    text-align: center;
+}
